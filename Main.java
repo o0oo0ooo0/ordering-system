@@ -1,5 +1,3 @@
-package com.company.order;
-
 import java.util.Scanner;
 
 public class Main {
